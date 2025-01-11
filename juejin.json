@@ -1,0 +1,202 @@
+[
+    {
+        "url": "https://juejin.cn/post/7416625208768315428",
+        "desc": "本菜鸟接入 qiankun 遇到的典型疑难杂症，记录一下，真是踩了不少的坑才把这些问题解决，希望能对大家有所帮助。",
+        "time": "2025-01-07 09:38:04",
+        "timestamp": 1736242684000,
+        "image": "",
+        "title": "本菜鸟接入 qiankun 遇到的难题，希望你不要被难到！",
+        "articleId": "7416625208768315428",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7452197418593566770",
+        "desc": "随着小米 SU7 的发布，不少网友发现了一个小米su7的展示网页，那是相当的酷炫： 当你体验一遍后，会看到各种炫酷的效果，包括隧道穿梭、波浪动画等，并且还有些细节也值得注意，如地面的反射效果。",
+        "time": "2024-12-29 05:08:34",
+        "timestamp": 1735448914000,
+        "image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/65655204ff9041b3a0367b72d15a21ab~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Yqg5YeP5rOV5Y6f5YiZ:q75.awebp?rk3s=f64ab15b&x-expires=1737191600&x-signature=aSz5mRAMQRWiF8gi7n2rmg6x4hY%3D",
+        "title": "模仿 SU7 网页特效  实现3D旋转地球",
+        "articleId": "7452197418593566770",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7450080841546121243",
+        "desc": "一、事件 2024年12月19号，在前端圈发生了一件匪夷所思的事情，前端开源项目Vant的多个版本被注入恶意代码后，发布到了npm上，导致全网大面积被感染。 随后Vant团队人员出来发声说：经排查可能",
+        "time": "2024-12-20 00:48:33",
+        "timestamp": 1734655713000,
+        "image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3ccedd95339943d6a87a4f8d3b0da053~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY5bCP5a-S:q75.awebp?rk3s=f64ab15b&x-expires=1737191600&x-signature=1uU5jPdzkcLEa4KGvFqEMBnJiLE%3D",
+        "title": "token泄漏产生的悲剧！Vant和Rspack被注入恶意代码，全网大面积被感染",
+        "articleId": "7450080841546121243",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7447368539936587776",
+        "desc": "和后端大战三百回合后，最终甘拜下风，还是臣服于后端的淫威了，一行代码实现前端导出excel复杂表格，多级标题以及根据数据去合并行",
+        "time": "2024-12-13 10:23:40",
+        "timestamp": 1734085420000,
+        "image": "",
+        "title": "和后端大战三百回合后，卑微前端还是选择了自己写excel导出",
+        "articleId": "7447368539936587776",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7447370832442802187",
+        "desc": "我不是来推荐插件的，而是来推荐卸载这些插件 1. Auto Rename Tag 自动重命名配对的 HTML 标签 VSCode 设置 该项设置是 为了能在 jsx 中生效 效果 缺点 当选中标签名被",
+        "time": "2024-12-12 09:44:35",
+        "timestamp": 1733996675000,
+        "image": "",
+        "title": "你可能不需要这些 VSCode 插件了",
+        "articleId": "7447370832442802187",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7444215159289102347",
+        "desc": "之前在讨论设计模式、算法的时候，一个后端组长冷嘲热讽的说：前端哪有什么设计模式、算法，就好像只有后端语言有一样，至今还记得那不屑的眼神。 今天想起来，就随便列几个，给这位眼里前端无设计模式的人，睁眼",
+        "time": "2024-12-04 02:52:34",
+        "timestamp": 1733280754000,
+        "image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/1355b93b2b524482be9d2249c9497768~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgRGlnbml0eV_lkbE=:q75.awebp?rk3s=f64ab15b&x-expires=1737191600&x-signature=KTfH0ZJcA3FNkTweaIwJxmGFsuc%3D",
+        "title": "前端哪有什么设计模式",
+        "articleId": "7444215159289102347",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7439905609312403483",
+        "desc": "老板：新的需求不是上线了嘛，怎么用户看到的还是老的页面呀 窝囊废：让用户刷新一下页面，或者清一下缓存 老板：那我得告诉用户，刷新一下页面，或者清一下缓存，才能看到新的页面呀，感觉用",
+        "time": "2024-11-22 07:08:32",
+        "timestamp": 1732259312000,
+        "image": "",
+        "title": "前端如何优雅通知用户刷新页面？",
+        "articleId": "7439905609312403483",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7431092834025635894",
+        "desc": "APP和H5都是用uniapp写的。 APP是vue3写法，H5是vue2写法.遇到了一些坑并解决。",
+        "time": "2024-11-22 01:25:42",
+        "timestamp": 1732238742000,
+        "image": "",
+        "title": "APP内嵌H5踩坑日记（一）",
+        "articleId": "7431092834025635894",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7431379490969010212",
+        "desc": "边在流程图中扮演着重要的角色，随着业务场景的增加，流程图框架提供灵活的边模块尤为重要。本文介绍了LogicFlow的边模块的设计思路，并通过一个 实现动画边 的例子，带大家了解LogicFlow的边",
+        "time": "2024-11-19 08:39:16",
+        "timestamp": 1732005556000,
+        "image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f67fdef1c9444e33b86de328ffce6e44~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgTG9naWNGbG93:q75.awebp?rk3s=f64ab15b&x-expires=1737191600&x-signature=QZgaub2Y1Hg9HA8mt20iC89sW7U%3D",
+        "title": "“有办法让流程图动起来吗？”“当然有！”：一起用LogicFlow实现动画边",
+        "articleId": "7431379490969010212",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7415653658706165787",
+        "desc": "最近刚入新项目，线上出了一个bug，Leader让排查。相关代码稍显复杂，想看看git历史记录获取些线索，打开Git Graph一看，当场石化，这不都是git规范的反面教材吗？",
+        "time": "2024-11-15 07:53:49",
+        "timestamp": 1731657229000,
+        "image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d105161f7c234a6896158fe23e0ff1d3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5YmN56uv5LiL6aWt6I-c:q75.awebp?rk3s=f64ab15b&x-expires=1737191600&x-signature=%2B9X5E%2FgypJWOqMC6R3yRxE08s5U%3D",
+        "title": "这样的Git规范，Leader看了都说好！",
+        "articleId": "7415653658706165787",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7431999862919446539",
+        "desc": "前言 最近在公司改bug，突然发现上一个前端留下的毛病不少，页面存在各种适配问题，为此甲方爸爸时常提出宝贵意见！ 你的页面是不是时常是这样： 侧边栏未收缩时： 收缩后： 这样（缩小挤成一坨）： 又或是",
+        "time": "2024-11-05 01:12:26",
+        "timestamp": 1730769146000,
+        "image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/cdfe4de1cf694ddaac243b79a64c984d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgenlraw==:q75.awebp?rk3s=f64ab15b&x-expires=1737191600&x-signature=TViGWSjqOtU8qFA2ke%2FYC84DGrM%3D",
+        "title": "前端适配：你一般用哪种方案？",
+        "articleId": "7431999862919446539",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7423261843953139722",
+        "desc": "大家好，我卡颂。 国庆节当天，尤雨溪官宣成立了一家新公司VoidZero，这家公司的愿景是致力于为 JS 生态系统构建一个统一、开源、高性能的开发工具链。 VoidZero旗下包含了哪些项目？项目的迭",
+        "time": "2024-11-01 13:25:42",
+        "timestamp": 1730467542000,
+        "image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4b76a52e20354eddba47e7e643e73b74~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6a2U5pyv5biI5Y2h6aKC:q75.awebp?rk3s=f64ab15b&x-expires=1737191600&x-signature=1zUh6zbQuKbn3oGq%2BEpNc5JEJnU%3D",
+        "title": "关于尤雨溪的新公司，你需要知道的",
+        "articleId": "7423261843953139722",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7431575865152618511",
+        "desc": "大家好，我是前端林叔，掘金小册《如何写出高质量的前端代码》 作者。 先说观点：在进行前端开发时，单个文件的代码行数推荐最大不超过300行，而超过1000行的都可以认为是垃圾代码，需要进行重构。 为什么",
+        "time": "2024-10-31 02:28:31",
+        "timestamp": 1730341711000,
+        "image": "",
+        "title": "为什么一个文件的代码不能超过300行？",
+        "articleId": "7431575865152618511",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7430707047458455590",
+        "desc": "1. 基础准备 1. 准备一些基础颜色和符号 2. 准备一个Element 元素类 准备一个元素类来描述速报拖尾的元素。 2. 编写一个渲染函数来循环遍历元素数组并更新元素 3. 监听鼠标移动事件，添",
+        "time": "2024-10-28 09:06:11",
+        "timestamp": 1730106371000,
+        "image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/05f3f300945044f08cf49b9fdb761b96~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aG-6KiANzE2:q75.awebp?rk3s=f64ab15b&x-expires=1737191600&x-signature=m39RJZ%2BHg0%2FVWNfGJm4kMLBmc%2FU%3D",
+        "title": "鼠标拖尾特效",
+        "articleId": "7430707047458455590",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7428980575821234230",
+        "desc": "不是吧，刚毕业几个月的前端，就写这么复杂的表格？？作为一个刚毕业的前端彩笔，接到这么复杂的一个表格需求，要怎么开发呢？？",
+        "time": "2024-10-28 03:40:54",
+        "timestamp": 1730086854000,
+        "image": "",
+        "title": "不是吧，刚毕业几个月的前端，就写这么复杂的表格？？",
+        "articleId": "7428980575821234230",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7425227672422268943",
+        "desc": "原生Html实现扇形旋转切换效果（等级切换转盘）；实现动态扇形旋转切换效果，切换进度支持渐变效果展示；",
+        "time": "2024-10-15 12:03:24",
+        "timestamp": 1728993804000,
+        "image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/cce390c71d6c4f848503c1425b5b0d27~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgemhhbmdzYW50eA==:q75.awebp?rk3s=f64ab15b&x-expires=1737191600&x-signature=%2FKYnbAvZneEqbWgvFv8iDsrS%2BPY%3D",
+        "title": "扇形旋转切换效果（等级切换转盘）",
+        "articleId": "7425227672422268943",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7423573726400299027",
+        "desc": "等待N天，迎来了我入职新公司后的第一个需求。 我是9月份中下旬入职的，入职了之后，每天的工作就是熟悉代码和框架，就这样过了几天之后，迎来了我在新公司的第一个节日：国庆节。",
+        "time": "2024-10-10 01:55:21",
+        "timestamp": 1728525321000,
+        "image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2d49d06f76cd49b094239559d7408b04~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5pqX5aSc5pys6IC2:q75.awebp?rk3s=f64ab15b&x-expires=1737191600&x-signature=KLOHdoNlei%2FedHFGKnP%2FJaOSaSc%3D",
+        "title": "入职N天的我，终于接到了我的第一个需求",
+        "articleId": "7423573726400299027",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7419166509908705321",
+        "desc": "了解浏览器渲染原理，我们可以清楚在浏览器加载页面时，都发生了什么操作，如 DOM树构建，stylesheets 构建，布局树构建等等",
+        "time": "2024-09-29 01:49:58",
+        "timestamp": 1727574598000,
+        "image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/bc89bd4c9dda496d891daebfaef8d23a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5YmN56uv5bCP6auY5YW0:q75.awebp?rk3s=f64ab15b&x-expires=1737191600&x-signature=N3JM9D1Zk%2BmVtEHCYrfF0C3riYc%3D",
+        "title": "别给面试官讲旧的浏览器渲染了",
+        "articleId": "7419166509908705321",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7419123474700697627",
+        "desc": "为什么git仓库越用越大，下载事件文件发现只有4M，但别人克隆缺有250M，这是为什么？如何解决？来看看我的思路",
+        "time": "2024-09-27 14:21:12",
+        "timestamp": 1727446872000,
+        "image": "",
+        "title": "太坑了。。。Git仓库为什么越来越大",
+        "articleId": "7419123474700697627",
+        "website": "juejin"
+    },
+    {
+        "url": "https://juejin.cn/post/7417847557047599123",
+        "desc": "谢谢大家的支持！！！ 淘宝我们肯定是每个人都使用的一个产品，但是他的网页版的 ui 有点不好看，也不太符合我们工作时间观看，那么今天的内容我们就来学习一下如何自定义一个 vscode 版本的淘宝，如下",
+        "time": "2024-09-24 07:15:34",
+        "timestamp": 1727162134000,
+        "image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c4ee140f4952436f852c65fc9ac0238e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgTW9tZW50:q75.awebp?rk3s=f64ab15b&x-expires=1737191600&x-signature=bzAdkleqSDUTVx%2FPEz%2FNcf1%2FMw4%3D",
+        "title": "网页版的淘宝首页不好看，那就自己给官方写一个并投稿上去 😍😍😍",
+        "articleId": "7417847557047599123",
+        "website": "juejin"
+    }
+]
