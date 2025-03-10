@@ -1,0 +1,452 @@
+[
+    {
+        "url": "https://movie.douban.com/subject/35603727/",
+        "title": "猫猫的奇幻漂流",
+        "is_new": false,
+        "rate": "8.4",
+        "index": 0,
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2917594343.jpg",
+        "id": "35603727"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36195543/",
+        "title": "阿诺拉",
+        "is_new": false,
+        "rate": "6.4",
+        "index": 1,
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2912764859.jpg",
+        "id": "36195543"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36924136/",
+        "title": "单细胞少女与学校怪谈：建校纪念日",
+        "is_new": true,
+        "rate": "6.1",
+        "index": 2,
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2915196706.jpg",
+        "id": "36924136"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36916003/",
+        "title": "海绵宝宝：皮老板大电影",
+        "is_new": true,
+        "rate": "6.0",
+        "index": 3,
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2919013276.jpg",
+        "id": "36916003"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36514513/",
+        "title": "永远超级幸福",
+        "is_new": true,
+        "rate": "7.2",
+        "index": 4,
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2912425855.jpg",
+        "id": "36514513"
+    },
+    {
+        "url": "https://movie.douban.com/subject/30388206/",
+        "title": "粗野派",
+        "is_new": false,
+        "rate": "7.2",
+        "index": 5,
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2914469700.jpg",
+        "id": "30388206"
+    },
+    {
+        "url": "https://movie.douban.com/subject/35295339/",
+        "title": "峡谷",
+        "is_new": false,
+        "rate": "7.3",
+        "index": 6,
+        "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2916136841.jpg",
+        "id": "35295339"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36421270/",
+        "title": "完美伴侣",
+        "is_new": false,
+        "rate": "6.9",
+        "index": 7,
+        "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2917240601.jpg",
+        "id": "36421270"
+    },
+    {
+        "url": "https://movie.douban.com/subject/34940704/",
+        "title": "无名小辈",
+        "is_new": false,
+        "rate": "6.4",
+        "index": 8,
+        "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2912428001.jpg",
+        "id": "34940704"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36177245/",
+        "title": "你的颜色",
+        "is_new": false,
+        "rate": "7.0",
+        "index": 9,
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2918131669.jpg",
+        "id": "36177245"
+    },
+    {
+        "url": "https://movie.douban.com/subject/35882838/",
+        "title": "某种物质",
+        "is_new": false,
+        "rate": "7.5",
+        "index": 10,
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2912441039.jpg",
+        "id": "35882838"
+    },
+    {
+        "url": "https://movie.douban.com/subject/35948807/",
+        "title": "秘密会议",
+        "is_new": false,
+        "rate": "7.4",
+        "index": 11,
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2914227928.jpg",
+        "id": "35948807"
+    },
+    {
+        "url": "https://movie.douban.com/subject/26656728/",
+        "title": "泳者之心",
+        "is_new": false,
+        "rate": "9.0",
+        "index": 12,
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910815887.jpg",
+        "id": "26656728"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36687720/",
+        "title": "隔壁房间",
+        "is_new": false,
+        "rate": "7.8",
+        "index": 13,
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2911534490.jpg",
+        "id": "36687720"
+    },
+    {
+        "url": "https://movie.douban.com/subject/34439629/",
+        "title": "哈尔滨",
+        "is_new": false,
+        "rate": "5.2",
+        "index": 14,
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910911157.jpg",
+        "id": "34439629"
+    },
+    {
+        "url": "https://movie.douban.com/subject/3148694/",
+        "title": "魔法坏女巫",
+        "is_new": false,
+        "rate": "7.0",
+        "index": 15,
+        "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2915239151.jpg",
+        "id": "3148694"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36308289/",
+        "title": "小心肝儿",
+        "is_new": false,
+        "rate": "5.6",
+        "index": 16,
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2913615945.jpg",
+        "id": "36308289"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36838707/",
+        "title": "“骗骗”喜欢你",
+        "is_new": false,
+        "rate": "6.4",
+        "index": 17,
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2916992166.jpg",
+        "id": "36838707"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36689857/",
+        "title": "荒野机器人",
+        "is_new": false,
+        "rate": "8.1",
+        "index": 18,
+        "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2913022141.jpg",
+        "id": "36689857"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36328210/",
+        "title": "姥姥的外孙",
+        "is_new": false,
+        "rate": "8.8",
+        "index": 19,
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2911511570.jpg",
+        "id": "36328210"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36498717/",
+        "title": "小小的我",
+        "is_new": false,
+        "rate": "7.0",
+        "index": 20,
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2916584640.jpg",
+        "id": "36498717"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36587974/",
+        "title": "出走的决心",
+        "is_new": false,
+        "rate": "8.8",
+        "index": 21,
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2912830708.jpg",
+        "id": "36587974"
+    },
+    {
+        "url": "https://movie.douban.com/subject/27115004/",
+        "title": "帕丁顿熊3：秘鲁大冒险",
+        "is_new": false,
+        "rate": "6.8",
+        "index": 22,
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2916173535.jpg",
+        "id": "27115004"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36822783/",
+        "title": "窗前明月，咣！",
+        "is_new": false,
+        "rate": "5.2",
+        "index": 23,
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2916211653.jpg",
+        "id": "36822783"
+    },
+    {
+        "url": "https://movie.douban.com/subject/35512487/",
+        "title": "我仍在此",
+        "is_new": false,
+        "rate": "8.0",
+        "index": 24,
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2915498619.jpg",
+        "id": "35512487"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36639612/",
+        "title": "秋日何时来",
+        "is_new": false,
+        "rate": "8.0",
+        "index": 25,
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2912876377.jpg",
+        "id": "36639612"
+    },
+    {
+        "url": "https://movie.douban.com/subject/35883131/",
+        "title": "雄狮少年2",
+        "is_new": false,
+        "rate": "8.5",
+        "index": 26,
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2915942528.jpg",
+        "id": "35883131"
+    },
+    {
+        "url": "https://movie.douban.com/subject/35900114/",
+        "title": "艾米莉亚·佩雷斯",
+        "is_new": false,
+        "rate": "6.3",
+        "index": 27,
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910508932.jpg",
+        "id": "35900114"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36154853/",
+        "title": "好东西",
+        "is_new": false,
+        "rate": "8.9",
+        "index": 28,
+        "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2915454411.jpg",
+        "id": "36154853"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36916001/",
+        "title": "腥心眼",
+        "is_new": false,
+        "rate": "5.6",
+        "index": 29,
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2917211043.jpg",
+        "id": "36916001"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36090457/",
+        "title": "头脑特工队2",
+        "is_new": false,
+        "rate": "8.4",
+        "index": 30,
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907600518.jpg",
+        "id": "36090457"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36623639/",
+        "title": "阴阳师0",
+        "is_new": false,
+        "rate": "6.5",
+        "index": 31,
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2918242796.jpg",
+        "id": "36623639"
+    },
+    {
+        "url": "https://movie.douban.com/subject/30368790/",
+        "title": "角斗士2",
+        "is_new": false,
+        "rate": "6.4",
+        "index": 32,
+        "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2914550341.jpg",
+        "id": "30368790"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36439490/",
+        "title": "异教徒",
+        "is_new": false,
+        "rate": "7.0",
+        "index": 33,
+        "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2913298291.jpg",
+        "id": "36439490"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36620952/",
+        "title": "火锅艺术家",
+        "is_new": false,
+        "rate": "6.2",
+        "index": 34,
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2916651956.jpg",
+        "id": "36620952"
+    },
+    {
+        "url": "https://movie.douban.com/subject/35965772/",
+        "title": "想象之光",
+        "is_new": false,
+        "rate": "7.6",
+        "index": 35,
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2909049672.jpg",
+        "id": "35965772"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36765646/",
+        "title": "蓦然回首",
+        "is_new": false,
+        "rate": "8.1",
+        "index": 36,
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2914342253.jpg",
+        "id": "36765646"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36171172/",
+        "title": "大都市的爱情法",
+        "is_new": false,
+        "rate": "7.9",
+        "index": 37,
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2913590069.jpg",
+        "id": "36171172"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36402080/",
+        "title": "怪猴",
+        "is_new": false,
+        "rate": "6.0",
+        "index": 38,
+        "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2914089881.jpg",
+        "id": "36402080"
+    },
+    {
+        "url": "https://movie.douban.com/subject/26596871/",
+        "title": "诺斯费拉图",
+        "is_new": false,
+        "rate": "5.9",
+        "index": 39,
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917169184.jpg",
+        "id": "26596871"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36743712/",
+        "title": "快乐赢家",
+        "is_new": false,
+        "rate": "7.4",
+        "index": 40,
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2903635145.jpg",
+        "id": "36743712"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36401937/",
+        "title": "误判",
+        "is_new": false,
+        "rate": "6.9",
+        "index": 41,
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2916559349.jpg",
+        "id": "36401937"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36684858/",
+        "title": "来聊聊须绪美吧",
+        "is_new": false,
+        "rate": "6.2",
+        "index": 42,
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910388022.jpg",
+        "id": "36684858"
+    },
+    {
+        "url": "https://movie.douban.com/subject/35956190/",
+        "title": "走走停停",
+        "is_new": false,
+        "rate": "8.0",
+        "index": 43,
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907440658.jpg",
+        "id": "35956190"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36193682/",
+        "title": "苏莱曼的故事",
+        "is_new": false,
+        "rate": "7.7",
+        "index": 44,
+        "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2912243321.jpg",
+        "id": "36193682"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36934908/",
+        "title": "因果报应",
+        "is_new": false,
+        "rate": "8.6",
+        "index": 45,
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2915350868.jpg",
+        "id": "36934908"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36712987/",
+        "title": "破·地狱",
+        "is_new": false,
+        "rate": "8.4",
+        "index": 46,
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2915837972.jpg",
+        "id": "36712987"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36647844/",
+        "title": "破碎的愤怒",
+        "is_new": false,
+        "rate": "6.3",
+        "index": 47,
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2912606667.jpg",
+        "id": "36647844"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36117675/",
+        "title": "小雁与吴爱丽",
+        "is_new": false,
+        "rate": "7.0",
+        "index": 48,
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2913946983.jpg",
+        "id": "36117675"
+    },
+    {
+        "url": "https://movie.douban.com/subject/36467821/",
+        "title": "蜗牛回忆录",
+        "is_new": false,
+        "rate": "8.4",
+        "index": 49,
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2915760420.jpg",
+        "id": "36467821"
+    }
+]
